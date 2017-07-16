@@ -5,8 +5,6 @@ VisualStudioVersion = 15.0.26228.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xiaolei.ServicePacker", "Xiaolei.ServicePacker\Xiaolei.ServicePacker.csproj", "{ADAAFE66-5DE0-45A9-A02F-67C30FB59B7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TargetExe", "TargetExe\TargetExe.csproj", "{FD0C6436-A032-4205-B9D9-920CDE2F33DE}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{ADAAFE66-5DE0-45A9-A02F-67C30FB59B7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADAAFE66-5DE0-45A9-A02F-67C30FB59B7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADAAFE66-5DE0-45A9-A02F-67C30FB59B7C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{FD0C6436-A032-4205-B9D9-920CDE2F33DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FD0C6436-A032-4205-B9D9-920CDE2F33DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FD0C6436-A032-4205-B9D9-920CDE2F33DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FD0C6436-A032-4205-B9D9-920CDE2F33DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
