@@ -4,6 +4,7 @@ using System.Linq;
 using System.ServiceProcess;
 using System.Text;
 using System.Threading.Tasks;
+using Xiaolei.TraceLib;
 
 namespace Xiaolei.ServicePacker
 {
@@ -11,6 +12,7 @@ namespace Xiaolei.ServicePacker
     {
         static void Main(string[] args)
         {
+            TraceHelper.TraceInfo("Xiaolei.ServicePacker main");
             ServiceBase[] ServicesToRun;
             ServicesToRun = new ServiceBase[]
             {

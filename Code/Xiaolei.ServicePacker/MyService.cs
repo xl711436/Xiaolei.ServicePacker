@@ -8,6 +8,7 @@ using System.Linq;
 using System.ServiceProcess;
 using System.Text;
 using System.Threading.Tasks;
+using Xiaolei.TraceLib;
 
 namespace Xiaolei.ServicePacker
 {
